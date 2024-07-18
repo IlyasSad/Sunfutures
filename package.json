@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@cspotcode/source-map-support": "^0.8.1",
+    "@derivation-tech/web3-core": "^1.0.29",
+    "@synfutures/oyster-sdk": "^0.1.6",
+    "ethers": "^5.7.2",
+    "tslib": "^2.6.2"
+  },
+  "scripts": {
+    "start": "ts-node src/orbitlending/Example.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
